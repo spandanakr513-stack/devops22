@@ -1,1 +1,2 @@
 this is a branch edit
+feature-branch conflicting edit
